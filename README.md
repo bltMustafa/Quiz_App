@@ -4,4 +4,4 @@
 
 Html , css , Javascript ile yapılmış basic quizApp uygulaması 
 
-https://vercel.com/bltmustafa/quiz-app
+https://quiz-app-psi-silk.vercel.app/
